@@ -1,0 +1,233 @@
+body{
+    margin:0;
+}
+.header{
+    background-color:#ff5200 ;
+    width:100%;
+    height:120px;
+}
+.logo{
+    float:left;
+    width: 30%;
+    padding-left:90px;
+    padding-top:25px;
+}
+.menu{
+    float:left;
+    width:15%;
+    padding-top:35px;
+    
+}
+p{
+    color: white;
+    padding-top: 10px;
+    font-family:arial, Helvetica Neue, sans-serif;
+    font-weight: bold;
+    padding-left: 10px;
+    font-size: 16px;
+    
+}
+.login{
+    float:left;
+    width:15%;
+    padding-left:35px;
+    padding-top:45px;
+}
+.install{
+    float:left;
+    width:15%;
+    padding-top:45px;
+    
+}
+.content{
+    background-color: white;
+    width: 100%;
+}
+
+.sign-in{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    font-family:arial, Helvetica Neue, sans-serif;
+    font-weight: bold;
+    padding:10px 24px;
+    border-radius: 12px;
+}
+.subscribe{
+    background-color:#ff5200 ;
+    color: white;
+    font-size: 18px;
+    font-family:arial, Helvetica Neue, sans-serif; 
+    font-weight: bold;
+    padding:10px 24px;
+    border-radius: 12px;
+    border:2px solid white;
+}
+.label{
+    float:left;
+    width:100%;
+
+    margin-left:20%;
+    padding-top: 30px;
+    margin-right: 10%;
+}
+#location{
+    width: 55%;
+    height: 55px;
+    
+    border: 1px solid  ;
+    box-sizing: border-box;
+    border-radius: 5px;
+    text-align: center;
+    color: rgba(2, 6, 12, .6) ;
+    font-family:arial, Helvetica Neue, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    background-color:rgba(0, 0, 0, 0) ;
+    background-image:url(./images/location-icon.jpeg);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 30px;
+    
+}
+#search{
+    width:80%;
+    height:55px;
+    border: 1px solid  ;
+    box-sizing: border-box;
+    border-radius: 5px;
+    
+    color: rgba(2, 6, 12, .6) ;
+    font-family: arial, Helvetica Neue, sans-serif;
+    font-size: 18px;
+    font-weight:bold;
+    background-color:rgba(0, 0, 0, 0) ;
+    background-image:url(./images/search-icon.jpeg) ;
+    background-repeat:no-repeat;
+    background-position:right;
+    background-size: 30px;
+}
+.label-login{
+    display:inline-block;
+    width:40%;
+    margin-right: -223px;
+
+}
+.image{
+    padding-left: 26%;
+    padding-top: 30px;
+    height:500px;
+    width:650px;
+}
+h3{
+    font-size: 35px;
+    color: #02060c;
+    font-weight: bolder;
+    font-family: arial, Helvetica Neue, sans-serif;
+    
+    
+    
+}
+.content-para{
+    font-family: arial, Helvetica Neue, sans-serif; ;
+    color:rgba(2, 6, 12, 0.6);
+    font-size: 20px;
+    font-weight: 650;
+    margin-top: -2%;
+    
+    
+}
+.contact{
+    float:left;
+    width:20%;
+}
+li{
+    font-family: arial, "Helvetica Neue", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color:rgba(2, 6, 12, 0.6) ;
+    list-style: none;
+    line-height: 21px;
+    margin: 10px;
+}
+.para{
+    padding-left: 5%;
+    padding-top: 10px;
+    margin-top: -4%;
+    text-align: center;
+}
+.bottom{
+    background-color:rgb(240, 240, 245) ;
+    width: 100%;
+    padding-top: 60px;
+    height: 400px;
+}
+.logo-image{
+    padding-left: 100px;
+    padding-top: 10px;
+}
+.list-1{
+    padding-left: 75px;
+}
+.list-2{
+    margin-left: -85px;
+}
+.list-3{
+    margin-left: -175px;
+}
+.list-4{
+    margin-left: -275px;
+}
+h4{
+    color:rgba(2, 6, 12, 0.6) ;
+    font-family: arial, "Helvetica Neue", sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    text-align: end;
+    margin-top: 0;
+}
+.bold{
+    color: #02060c;
+    font-family: arial, "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+#legal{
+    margin-top: 70px;
+}
+#social-media{
+    margin-top: 120px;
+}
+.footer{
+    
+    background-color:rgb(240, 240, 245) ;
+    width: 100%;
+    padding-top: 5px;
+    height: 200px;
+}
+.download{
+    
+        font-family: arial, "Helvetica Neue", sans-serif;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 26px;
+        letter-spacing: -0.6px;
+        color: rgba(2, 6, 12, 0.75);
+        padding-top: 5px;
+        padding-left: 10px;
+}
+.sub-footer{
+    float: left;
+    padding-left: 100px;
+    padding-top: 40px;
+}
+.apple{
+    margin-right: 20px;
+    margin-left: -55px;
+}
+.lazy{margin-right: 10px;}
+.city{
+    border-radius: 5px;
+    border:1px solid;
+}
+
